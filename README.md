@@ -1,1 +1,3 @@
-# Netflix-Movie-Recommendation-System
+# Netflix-Movie-Recommendation-System 
+Netflix's movie recommendation system is an advanced algorithm that analyzes user behavior and preferences to suggest personalized movie and TV show recommendations. It is based on a combination of machine learning techniques and collaborative filtering.
+One key component of Netflix's recommendation system is collaborative filtering, which compares a user's preferences and viewing history with those of other similar users. By identifying patterns and similarities in user behavior, the system can recommend movies and shows that other users with similar tastes have enjoyed.
